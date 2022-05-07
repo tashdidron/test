@@ -1,0 +1,7 @@
+body {
+    background-color: rgb(67, 82, 197);
+    color: white
+}
+a:hover, a, a:visited, a:active {
+    color: white;
+}
